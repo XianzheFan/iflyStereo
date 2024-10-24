@@ -1,3 +1,2 @@
 # iflyStereo
-科大讯飞接口+双声道直接相减降噪
-第三版
+iFLYTEK Interface + Dual-Channel Direct Subtraction Noise Reduction (3rd Version)
